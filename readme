@@ -1,1 +1,43 @@
+# 📸 Pexels Clone
 
+A fully responsive frontend clone of the popular stock image site **Pexels**, built using pure **HTML** and **CSS**. This project showcases a modern **Bento Box design**, implemented using **Flexbox** and **CSS Grid** for layout control.
+
+---
+
+## 🚀 Features
+
+- ✅ **Bento Box Layout**: A visually engaging, grid-based arrangement inspired by modern portfolio sites
+- ✅ **Responsive Design**: Adapts smoothly to mobile, tablet, and desktop screens
+- ✅ **Flexbox & CSS Grid**: Used together to create a dynamic and flexible structure
+- ✅ **Minimalist UI**: Clean, elegant look for a professional experience
+- ✅ **Hover Effects**: Subtle animations to enhance user interaction
+
+---
+
+## 🎯 Technologies Used
+
+- HTML5
+- CSS3
+  - Flexbox
+  - CSS Grid
+- Media Queries for responsiveness
+
+---
+
+## 📚 Learning Outcomes
+
+- Deepened my understanding of layout systems like **Flexbox** and **Grid**
+- Practiced applying **Bento Box UI** patterns to real-world designs
+- Improved skills in responsive design and semantic HTML
+
+---
+
+## 📩 Feedback
+
+If you have ideas or suggestions for improvement, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
